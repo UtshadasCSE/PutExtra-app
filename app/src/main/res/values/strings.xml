@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendData</string>
+    <string name="sen">Send Data</string>
+    <string name="hin">Enter your name</string>
+    <string name="hin_age">Your Age?</string>
+    <string name="btn">Send</string>
+</resources>
